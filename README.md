@@ -1,18 +1,7 @@
-### Hi, I'm Noel
+Hola, soy Noel. Estudio Ingeniería Informática en la UDC y hago sobre todo apps Android para mí y para mi familia.
 
-First-year Computer Engineering student at the Universidade da Coruña (FIC). I mostly build Android apps and small tools for myself and my family, plus the home server they run on.
+Colaboro en [HyperBridge](https://github.com/D4vidDf/HyperBridge), donde llevo [28 pull requests aceptados](https://github.com/D4vidDf/HyperBridge/pulls?q=is%3Apr+author%3Anoelpatata+is%3Amerged).
 
-**Open source**
+Por mi cuenta tengo MeteoIsla (lluvia en tiempo real en la isla de HyperOS), una app para controlar el PC desde el móvil, una tienda de apps propia y un servidor en casa donde corre todo. Casi todo está en repos privados.
 
-- [HyperBridge](https://github.com/D4vidDf/HyperBridge): Android app that shows floating notifications inside the HyperIsland on phones running HyperOS 3 or newer. I have [28 merged pull requests](https://github.com/D4vidDf/HyperBridge/pulls?q=is%3Apr+author%3Anoelpatata+is%3Amerged), including the island editor and the template system.
-
-**Personal projects** (most of these repos are private)
-
-- **MeteoIsla**: takes public weather radar data and shows live rain in the HyperOS dynamic island.
-- **Control PC**: turns my PC on with Wake-on-LAN, opens an SSH session and opens the house gate through a Raspberry Pi.
-- **App store**: installs and updates my apps on my devices and my family's, without Google Play.
-- **Home server**: a NAS that also runs the backends for everything above.
-
-**Tools:** Kotlin, Jetpack Compose, Java, HTML, CSS, JavaScript, Firebase, Docker, Linux. I use Claude Code when programming.
-
-**Languages:** Spanish, Galician, English (C1).
+Programo en Kotlin, Java y web, y uso Claude Code.
